@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260201-080308-eysf",
+    "title": "Victus Grave",
+    "commanders": [
+      "Victus Grave"
+    ],
+    "dateStart": "2026-02-01T16:03:08.000Z",
+    "dateEnd": "2026-02-01T18:22:32.000Z",
+    "dateLabel": "2/1/2026, 8:03:08 AM - 2/1/2026, 10:22:32 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260201-080308-eysf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 16,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 8,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 24
+    }
+  },
+  {
     "id": "20260128-165728-nbtm",
     "title": "Reven The Big Show, Tilted Aegis",
     "commanders": [
