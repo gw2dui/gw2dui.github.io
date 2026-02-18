@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260217-165847-e47u",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-18T00:58:47.000Z",
+    "dateEnd": "2026-02-18T02:28:03.000Z",
+    "dateLabel": "2/17/2026, 4:58:47 PM - 2/17/2026, 6:28:03 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260217-165847-e47u",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 26,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 38
+    }
+  },
+  {
     "id": "20260201-080308-nl2f",
     "title": "Victus Grave",
     "commanders": [
