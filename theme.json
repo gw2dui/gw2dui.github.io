@@ -1,6 +1,0 @@
-{
-  "id": "Gold",
-  "label": "Gold",
-  "rgb": "250, 204, 21",
-  "pattern": "radial-gradient(at 0% 0%, hsla(45, 80%, 15%, 1) 0, transparent 70%), radial-gradient(at 100% 0%, hsla(40, 90%, 20%, 1) 0, transparent 70%), radial-gradient(at 50% 100%, hsla(50, 70%, 25%, 1) 0, transparent 70%)"
-}
