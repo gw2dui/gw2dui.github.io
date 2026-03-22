@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260322-085709-cs9c",
+      "title": "Lightbeam Jack",
+      "commanders": [
+        "Lightbeam Jack"
+      ],
+      "dateStart": "2026-03-22T15:57:09.000Z",
+      "dateEnd": "2026-03-22T21:22:41.000Z",
+      "dateLabel": "3/22/2026, 8:57:09 AM - 3/22/2026, 2:22:41 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260322-085709-cs9c",
+      "summary": {
+        "borderlandsPct": 0.17567567567567569,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 61,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260321-083400-mo28",
       "title": "Xander Cruz",
       "commanders": [
