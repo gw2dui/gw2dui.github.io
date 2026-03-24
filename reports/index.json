@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260323-175718-nbw1",
+      "title": "Guardian Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra"
+      ],
+      "dateStart": "2026-03-24T00:57:18.000Z",
+      "dateEnd": "2026-03-24T02:32:00.000Z",
+      "dateLabel": "3/23/2026, 5:57:18 PM - 3/23/2026, 7:32:00 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260323-175718-nbw1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260323-175718-nl78",
       "title": "Guardian Kamoidra",
       "commanders": [
