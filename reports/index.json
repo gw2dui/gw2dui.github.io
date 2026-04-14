@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260414-124814-52i3",
+      "title": "Xander Cruz",
+      "commanders": [
+        "Xander Cruz"
+      ],
+      "dateStart": "2026-04-14T19:48:14.000Z",
+      "dateEnd": "2026-04-14T21:24:09.000Z",
+      "dateLabel": "4/14/2026, 12:48:14 PM - 4/14/2026, 2:24:09 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260414-124814-52i3",
+      "summary": {
+        "borderlandsPct": 0.5238095238095238,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260328-175435-vzyi",
       "title": "Dub Grumble",
       "commanders": [
