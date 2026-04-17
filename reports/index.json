@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260416-180801-a39i",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-04-17T01:08:01.000Z",
+      "dateEnd": "2026-04-17T02:53:36.000Z",
+      "dateLabel": "4/16/2026, 6:08:01 PM - 4/16/2026, 7:53:36 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260416-180801-a39i",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260414-124814-52i3",
       "title": "Xander Cruz",
       "commanders": [
