@@ -1,7 +1,41 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260601-192045-b36g",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-06-02T02:20:45.000Z",
+      "dateEnd": "2026-06-02T02:50:05.000Z",
+      "dateLabel": "6/1/2026, 7:20:45 PM - 6/1/2026, 7:50:05 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260601-192045-b36g",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20260426-101617-n537",
       "title": "Birdman Jackman",
