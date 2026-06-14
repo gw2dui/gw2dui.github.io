@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-105630-3jab",
+      "title": "Xander Cruz",
+      "commanders": [
+        "Xander Cruz"
+      ],
+      "dateStart": "2026-06-14T17:56:30.000Z",
+      "dateEnd": "2026-06-14T18:30:42.000Z",
+      "dateLabel": "6/14/2026, 10:56:30 AM - 6/14/2026, 11:30:42 AM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260614-105630-3jab",
+      "summary": {
+        "borderlandsPct": 0.17142857142857143,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260607-104253-pqqv",
       "title": "Crunchy Messorem",
       "commanders": [
