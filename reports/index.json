@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-101723-htfr",
+      "title": "Xander Cruz",
+      "commanders": [
+        "Xander Cruz"
+      ],
+      "dateStart": "2026-06-20T17:17:23.000Z",
+      "dateEnd": "2026-06-20T17:41:23.000Z",
+      "dateLabel": "6/20/2026, 10:17:23 AM - 6/20/2026, 10:41:23 AM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260620-101723-htfr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 65,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260614-105630-3jab",
       "title": "Xander Cruz",
       "commanders": [
