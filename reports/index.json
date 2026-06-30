@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-183410-3pm0",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-06-30T01:34:10.000Z",
+      "dateEnd": "2026-06-30T02:24:23.000Z",
+      "dateLabel": "6/29/2026, 6:34:10 PM - 6/29/2026, 7:24:23 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260629-183410-3pm0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260625-191121-45au",
       "title": "Mesmer Kamoidra",
       "commanders": [
