@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260705-113449-fm6k",
+      "title": "Lilandra Grave",
+      "commanders": [
+        "Lilandra Grave"
+      ],
+      "dateStart": "2026-07-05T18:34:49.000Z",
+      "dateEnd": "2026-07-05T19:43:32.000Z",
+      "dateLabel": "7/5/2026, 11:34:49 AM - 7/5/2026, 12:43:32 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260705-113449-fm6k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260629-183410-3pm0",
       "title": "Mesmer Kamoidra",
       "commanders": [
