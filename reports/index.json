@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-093338-bl0r",
+      "title": "Mira Grave",
+      "commanders": [
+        "Mira Grave"
+      ],
+      "dateStart": "2026-07-18T16:33:38.000Z",
+      "dateEnd": "2026-07-18T17:11:27.000Z",
+      "dateLabel": "7/18/2026, 9:33:38 AM - 7/18/2026, 10:11:27 AM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260718-093338-bl0r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260705-113449-fm6k",
       "title": "Lilandra Grave",
       "commanders": [
