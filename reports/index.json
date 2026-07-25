@@ -1,867 +1,829 @@
-{
-  "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20251222-191520-cw2z",
-      "title": "Not Haro",
-      "commanders": [
-        "Not Haro"
+[
+  {
+    "id": "20260718-093338-bl0r",
+    "title": "Mira Grave",
+    "commanders": [
+      "Mira Grave"
+    ],
+    "dateStart": "2026-07-18T16:33:38.000Z",
+    "dateEnd": "2026-07-18T17:11:27.000Z",
+    "dateLabel": "7/18/2026, 9:33:38 AM - 7/18/2026, 10:11:27 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260718-093338-bl0r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
       ],
-      "dateStart": "2025-12-23T03:15:20.000Z",
-      "dateEnd": "2025-12-23T03:55:36.000Z",
-      "dateLabel": "12/22/2025, 7:15:20 PM - 12/22/2025, 7:55:36 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20251222-191520-cw2z",
-      "summary": {
-        "borderlandsPct": 0.559322033898305,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 32,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 26,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260718-093338-bl0r",
-      "title": "Mira Grave",
-      "commanders": [
-        "Mira Grave"
-      ],
-      "dateStart": "2026-07-18T16:33:38.000Z",
-      "dateEnd": "2026-07-18T17:11:27.000Z",
-      "dateLabel": "7/18/2026, 9:33:38 AM - 7/18/2026, 10:11:27 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260718-093338-bl0r",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 13
-      }
-    },
-    {
-      "id": "20260705-113449-fm6k",
-      "title": "Lilandra Grave",
-      "commanders": [
-        "Lilandra Grave"
-      ],
-      "dateStart": "2026-07-05T18:34:49.000Z",
-      "dateEnd": "2026-07-05T19:43:32.000Z",
-      "dateLabel": "7/5/2026, 11:34:49 AM - 7/5/2026, 12:43:32 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260705-113449-fm6k",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 21,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 6,
-        "avgEnemySize": 12
-      }
-    },
-    {
-      "id": "20260629-183410-3pm0",
-      "title": "Mesmer Kamoidra",
-      "commanders": [
-        "Mesmer Kamoidra"
-      ],
-      "dateStart": "2026-06-30T01:34:10.000Z",
-      "dateEnd": "2026-06-30T02:24:23.000Z",
-      "dateLabel": "6/29/2026, 6:34:10 PM - 6/29/2026, 7:24:23 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260629-183410-3pm0",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 41,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260625-191121-45au",
-      "title": "Mesmer Kamoidra",
-      "commanders": [
-        "Mesmer Kamoidra"
-      ],
-      "dateStart": "2026-06-26T02:11:21.000Z",
-      "dateEnd": "2026-06-26T02:52:32.000Z",
-      "dateLabel": "6/25/2026, 7:11:21 PM - 6/25/2026, 7:52:32 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260625-191121-45au",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 36,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260620-101723-htfr",
-      "title": "Xander Cruz",
-      "commanders": [
-        "Xander Cruz"
-      ],
-      "dateStart": "2026-06-20T17:17:23.000Z",
-      "dateEnd": "2026-06-20T17:41:23.000Z",
-      "dateLabel": "6/20/2026, 10:17:23 AM - 6/20/2026, 10:41:23 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260620-101723-htfr",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 65,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 11,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260614-105630-3jab",
-      "title": "Xander Cruz",
-      "commanders": [
-        "Xander Cruz"
-      ],
-      "dateStart": "2026-06-14T17:56:30.000Z",
-      "dateEnd": "2026-06-14T18:30:42.000Z",
-      "dateLabel": "6/14/2026, 10:56:30 AM - 6/14/2026, 11:30:42 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260614-105630-3jab",
-      "summary": {
-        "borderlandsPct": 0.17142857142857143,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 29,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260607-104253-pqqv",
-      "title": "Crunchy Messorem",
-      "commanders": [
-        "Crunchy Messorem"
-      ],
-      "dateStart": "2026-06-07T17:42:53.000Z",
-      "dateEnd": "2026-06-07T19:04:41.000Z",
-      "dateLabel": "6/7/2026, 10:42:53 AM - 6/7/2026, 12:04:41 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260607-104253-pqqv",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 14,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 4,
-        "avgEnemySize": 15
-      }
-    },
-    {
-      "id": "20260606-101839-oum4",
-      "title": "Branwen Mailis",
-      "commanders": [
-        "Branwen Mailis"
-      ],
-      "dateStart": "2026-06-06T17:18:39.000Z",
-      "dateEnd": "2026-06-06T18:17:50.000Z",
-      "dateLabel": "6/6/2026, 10:18:39 AM - 6/6/2026, 11:17:50 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260606-101839-oum4",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 20,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260601-192045-b36g",
-      "title": "Prez Ashton",
-      "commanders": [
-        "Prez Ashton"
-      ],
-      "dateStart": "2026-06-02T02:20:45.000Z",
-      "dateEnd": "2026-06-02T02:50:05.000Z",
-      "dateLabel": "6/1/2026, 7:20:45 PM - 6/1/2026, 7:50:05 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260601-192045-b36g",
-      "summary": {
-        "borderlandsPct": 0.18181818181818182,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 27,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 39
-      }
-    },
-    {
-      "id": "20260426-101617-n537",
-      "title": "Birdman Jackman",
-      "commanders": [
-        "Birdman Jackman"
-      ],
-      "dateStart": "2026-04-26T17:16:17.000Z",
-      "dateEnd": "2026-04-26T18:41:35.000Z",
-      "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-n537",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260426-101617-djgd",
-      "title": "Birdman Jackman",
-      "commanders": [
-        "Birdman Jackman"
-      ],
-      "dateStart": "2026-04-26T17:16:17.000Z",
-      "dateEnd": "2026-04-26T18:41:35.000Z",
-      "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-djgd",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260426-101617-o0n1",
-      "title": "Birdman Jackman",
-      "commanders": [
-        "Birdman Jackman"
-      ],
-      "dateStart": "2026-04-26T17:16:17.000Z",
-      "dateEnd": "2026-04-26T18:41:35.000Z",
-      "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-o0n1",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260426-101617-rk85",
-      "title": "Birdman Jackman",
-      "commanders": [
-        "Birdman Jackman"
-      ],
-      "dateStart": "2026-04-26T17:16:17.000Z",
-      "dateEnd": "2026-04-26T18:41:35.000Z",
-      "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-rk85",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 12,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 7,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260419-153055-4dv2",
-      "title": "Xander Cruz",
-      "commanders": [
-        "Xander Cruz"
-      ],
-      "dateStart": "2026-04-19T22:30:55.000Z",
-      "dateEnd": "2026-04-19T23:38:25.000Z",
-      "dateLabel": "4/19/2026, 3:30:55 PM - 4/19/2026, 4:38:25 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260419-153055-4dv2",
-      "summary": {
-        "borderlandsPct": 0.6470588235294118,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 12,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 10,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 10,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 9,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260419-095714-u362",
-      "title": "Viktor Kas",
-      "commanders": [
-        "Viktor Kas"
-      ],
-      "dateStart": "2026-04-19T16:57:14.000Z",
-      "dateEnd": "2026-04-19T18:54:01.000Z",
-      "dateLabel": "4/19/2026, 9:57:14 AM - 4/19/2026, 11:54:01 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260419-095714-u362",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 11
-      }
-    },
-    {
-      "id": "20260416-180801-a39i",
-      "title": "Mesmer Kamoidra",
-      "commanders": [
-        "Mesmer Kamoidra"
-      ],
-      "dateStart": "2026-04-17T01:08:01.000Z",
-      "dateEnd": "2026-04-17T02:53:36.000Z",
-      "dateLabel": "4/16/2026, 6:08:01 PM - 4/16/2026, 7:53:36 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260416-180801-a39i",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 17,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 56
-      }
-    },
-    {
-      "id": "20260414-124814-52i3",
-      "title": "Xander Cruz",
-      "commanders": [
-        "Xander Cruz"
-      ],
-      "dateStart": "2026-04-14T19:48:14.000Z",
-      "dateEnd": "2026-04-14T21:24:09.000Z",
-      "dateLabel": "4/14/2026, 12:48:14 PM - 4/14/2026, 2:24:09 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260414-124814-52i3",
-      "summary": {
-        "borderlandsPct": 0.5238095238095238,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 11,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 10,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 17
-      }
-    },
-    {
-      "id": "20260328-175435-vzyi",
-      "title": "Dub Grumble",
-      "commanders": [
-        "Dub Grumble"
-      ],
-      "dateStart": "2026-03-29T00:54:35.000Z",
-      "dateEnd": "2026-03-29T02:08:25.000Z",
-      "dateLabel": "3/28/2026, 5:54:35 PM - 3/28/2026, 7:08:25 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260328-175435-vzyi",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 18,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260325-170648-en5c",
-      "title": "Fíbbs",
-      "commanders": [
-        "Fíbbs"
-      ],
-      "dateStart": "2026-03-26T00:06:48.000Z",
-      "dateEnd": "2026-03-26T01:51:02.000Z",
-      "dateLabel": "3/25/2026, 5:06:48 PM - 3/25/2026, 6:51:02 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260325-170648-en5c",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 43,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260323-175718-nbw1",
-      "title": "Guardian Kamoidra",
-      "commanders": [
-        "Guardian Kamoidra"
-      ],
-      "dateStart": "2026-03-24T00:57:18.000Z",
-      "dateEnd": "2026-03-24T02:32:00.000Z",
-      "dateLabel": "3/23/2026, 5:57:18 PM - 3/23/2026, 7:32:00 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260323-175718-nbw1",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 20,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260322-085709-cs9c",
-      "title": "Lightbeam Jack",
-      "commanders": [
-        "Lightbeam Jack"
-      ],
-      "dateStart": "2026-03-22T15:57:09.000Z",
-      "dateEnd": "2026-03-22T21:22:41.000Z",
-      "dateLabel": "3/22/2026, 8:57:09 AM - 3/22/2026, 2:22:41 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260322-085709-cs9c",
-      "summary": {
-        "borderlandsPct": 0.17567567567567569,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 61,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 13,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260321-083400-mo28",
-      "title": "Xander Cruz",
-      "commanders": [
-        "Xander Cruz"
-      ],
-      "dateStart": "2026-03-21T15:34:00.000Z",
-      "dateEnd": "2026-03-21T17:14:34.000Z",
-      "dateLabel": "3/21/2026, 8:34:00 AM - 3/21/2026, 10:14:34 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260321-083400-mo28",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 9,
-        "avgEnemySize": 10
-      }
-    },
-    {
-      "id": "20260301-093318-n8mq",
-      "title": "Mira Grave",
-      "commanders": [
-        "Mira Grave"
-      ],
-      "dateStart": "2026-03-01T17:33:18.000Z",
-      "dateEnd": "2026-03-01T18:30:50.000Z",
-      "dateLabel": "3/1/2026, 9:33:18 AM - 3/1/2026, 10:30:50 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260301-093318-n8mq",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 9,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 6,
-        "avgEnemySize": 11
-      }
-    },
-    {
-      "id": "20260217-165847-e47u",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "dateStart": "2026-02-18T00:58:47.000Z",
-      "dateEnd": "2026-02-18T02:28:03.000Z",
-      "dateLabel": "2/17/2026, 4:58:47 PM - 2/17/2026, 6:28:03 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260217-165847-e47u",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 26,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 38
-      }
-    },
-    {
-      "id": "20260201-080308-nl2f",
-      "title": "Victus Grave",
-      "commanders": [
-        "Victus Grave"
-      ],
-      "dateStart": "2026-02-01T16:03:08.000Z",
-      "dateEnd": "2026-02-01T18:22:32.000Z",
-      "dateLabel": "2/1/2026, 8:03:08 AM - 2/1/2026, 10:22:32 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260201-080308-nl2f",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Alpine Borderlands",
-            "value": 16,
-            "color": "#64748b"
-          },
-          {
-            "name": "Red Desert Borderlands",
-            "value": 8,
-            "color": "#64748b"
-          },
-          {
-            "name": "Green Alpine Borderlands",
-            "value": 3,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260201-080308-eysf",
-      "title": "Victus Grave",
-      "commanders": [
-        "Victus Grave"
-      ],
-      "dateStart": "2026-02-01T16:03:08.000Z",
-      "dateEnd": "2026-02-01T18:22:32.000Z",
-      "dateLabel": "2/1/2026, 8:03:08 AM - 2/1/2026, 10:22:32 AM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260201-080308-eysf",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 16,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 8,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#10b981"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260128-165728-nbtm",
-      "title": "Reven The Big Show, Tilted Aegis",
-      "commanders": [
-        "Reven The Big Show",
-        "Tilted Aegis"
-      ],
-      "dateStart": "2026-01-29T00:57:28.000Z",
-      "dateEnd": "2026-01-29T03:04:27.000Z",
-      "dateLabel": "1/28/2026, 4:57:28 PM - 1/28/2026, 7:04:27 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260128-165728-nbtm",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 23,
-            "color": "#10b981"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260128-165728-nutz",
-      "title": "Reven The Big Show, Tilted Aegis",
-      "commanders": [
-        "Reven The Big Show",
-        "Tilted Aegis"
-      ],
-      "dateStart": "2026-01-29T00:57:28.000Z",
-      "dateEnd": "2026-01-29T03:04:27.000Z",
-      "dateLabel": "1/28/2026, 4:57:28 PM - 1/28/2026, 7:04:27 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260128-165728-nutz",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 23,
-            "color": "#10b981"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 43
-      }
-    },
-    {
-      "id": "20260126-175738-10wd",
-      "title": "Not Haro",
-      "commanders": [
-        "Not Haro"
-      ],
-      "dateStart": "2026-01-27T01:57:38.000Z",
-      "dateEnd": "2026-01-27T03:30:45.000Z",
-      "dateLabel": "1/26/2026, 5:57:38 PM - 1/26/2026, 7:30:45 PM",
-      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260126-175738-10wd",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 13,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#10b981"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260126-175738-tl9t",
-      "title": "Not Haro",
-      "commanders": [
-        "Not Haro"
-      ],
-      "dateStart": "2026-01-27T01:57:38.000Z",
-      "dateEnd": "2026-01-27T03:30:45.000Z",
-      "dateLabel": "1/26/2026, 5:57:38 PM - 1/26/2026, 7:30:45 PM",
-      "url": "https://gw2dui.github.io/?report=20260126-175738-tl9t",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 13,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#10b981"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 48
-      }
+      "avgSquadSize": 8,
+      "avgEnemySize": 13
     }
-  ]
-}
+  },
+  {
+    "id": "20260705-113449-fm6k",
+    "title": "Lilandra Grave",
+    "commanders": [
+      "Lilandra Grave"
+    ],
+    "dateStart": "2026-07-05T18:34:49.000Z",
+    "dateEnd": "2026-07-05T19:43:32.000Z",
+    "dateLabel": "7/5/2026, 11:34:49 AM - 7/5/2026, 12:43:32 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260705-113449-fm6k",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 21,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 6,
+      "avgEnemySize": 12
+    }
+  },
+  {
+    "id": "20260629-183410-3pm0",
+    "title": "Mesmer Kamoidra",
+    "commanders": [
+      "Mesmer Kamoidra"
+    ],
+    "dateStart": "2026-06-30T01:34:10.000Z",
+    "dateEnd": "2026-06-30T02:24:23.000Z",
+    "dateLabel": "6/29/2026, 6:34:10 PM - 6/29/2026, 7:24:23 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260629-183410-3pm0",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 41,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260625-191121-45au",
+    "title": "Mesmer Kamoidra",
+    "commanders": [
+      "Mesmer Kamoidra"
+    ],
+    "dateStart": "2026-06-26T02:11:21.000Z",
+    "dateEnd": "2026-06-26T02:52:32.000Z",
+    "dateLabel": "6/25/2026, 7:11:21 PM - 6/25/2026, 7:52:32 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260625-191121-45au",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 36,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260620-101723-htfr",
+    "title": "Xander Cruz",
+    "commanders": [
+      "Xander Cruz"
+    ],
+    "dateStart": "2026-06-20T17:17:23.000Z",
+    "dateEnd": "2026-06-20T17:41:23.000Z",
+    "dateLabel": "6/20/2026, 10:17:23 AM - 6/20/2026, 10:41:23 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260620-101723-htfr",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 65,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 11,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260614-105630-3jab",
+    "title": "Xander Cruz",
+    "commanders": [
+      "Xander Cruz"
+    ],
+    "dateStart": "2026-06-14T17:56:30.000Z",
+    "dateEnd": "2026-06-14T18:30:42.000Z",
+    "dateLabel": "6/14/2026, 10:56:30 AM - 6/14/2026, 11:30:42 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260614-105630-3jab",
+    "summary": {
+      "borderlandsPct": 0.17142857142857143,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 29,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260607-104253-pqqv",
+    "title": "Crunchy Messorem",
+    "commanders": [
+      "Crunchy Messorem"
+    ],
+    "dateStart": "2026-06-07T17:42:53.000Z",
+    "dateEnd": "2026-06-07T19:04:41.000Z",
+    "dateLabel": "6/7/2026, 10:42:53 AM - 6/7/2026, 12:04:41 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260607-104253-pqqv",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 14,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 4,
+      "avgEnemySize": 15
+    }
+  },
+  {
+    "id": "20260606-101839-oum4",
+    "title": "Branwen Mailis",
+    "commanders": [
+      "Branwen Mailis"
+    ],
+    "dateStart": "2026-06-06T17:18:39.000Z",
+    "dateEnd": "2026-06-06T18:17:50.000Z",
+    "dateLabel": "6/6/2026, 10:18:39 AM - 6/6/2026, 11:17:50 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260606-101839-oum4",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260601-192045-b36g",
+    "title": "Prez Ashton",
+    "commanders": [
+      "Prez Ashton"
+    ],
+    "dateStart": "2026-06-02T02:20:45.000Z",
+    "dateEnd": "2026-06-02T02:50:05.000Z",
+    "dateLabel": "6/1/2026, 7:20:45 PM - 6/1/2026, 7:50:05 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260601-192045-b36g",
+    "summary": {
+      "borderlandsPct": 0.18181818181818182,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 27,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 39
+    }
+  },
+  {
+    "id": "20260426-101617-n537",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-04-26T17:16:17.000Z",
+    "dateEnd": "2026-04-26T18:41:35.000Z",
+    "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-n537",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260426-101617-djgd",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-04-26T17:16:17.000Z",
+    "dateEnd": "2026-04-26T18:41:35.000Z",
+    "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-djgd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260426-101617-o0n1",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-04-26T17:16:17.000Z",
+    "dateEnd": "2026-04-26T18:41:35.000Z",
+    "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-o0n1",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260426-101617-rk85",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-04-26T17:16:17.000Z",
+    "dateEnd": "2026-04-26T18:41:35.000Z",
+    "dateLabel": "4/26/2026, 10:16:17 AM - 4/26/2026, 11:41:35 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260426-101617-rk85",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 7,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260419-153055-4dv2",
+    "title": "Xander Cruz",
+    "commanders": [
+      "Xander Cruz"
+    ],
+    "dateStart": "2026-04-19T22:30:55.000Z",
+    "dateEnd": "2026-04-19T23:38:25.000Z",
+    "dateLabel": "4/19/2026, 3:30:55 PM - 4/19/2026, 4:38:25 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260419-153055-4dv2",
+    "summary": {
+      "borderlandsPct": 0.6470588235294118,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 12,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 10,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 10,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260419-095714-u362",
+    "title": "Viktor Kas",
+    "commanders": [
+      "Viktor Kas"
+    ],
+    "dateStart": "2026-04-19T16:57:14.000Z",
+    "dateEnd": "2026-04-19T18:54:01.000Z",
+    "dateLabel": "4/19/2026, 9:57:14 AM - 4/19/2026, 11:54:01 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260419-095714-u362",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 11
+    }
+  },
+  {
+    "id": "20260416-180801-a39i",
+    "title": "Mesmer Kamoidra",
+    "commanders": [
+      "Mesmer Kamoidra"
+    ],
+    "dateStart": "2026-04-17T01:08:01.000Z",
+    "dateEnd": "2026-04-17T02:53:36.000Z",
+    "dateLabel": "4/16/2026, 6:08:01 PM - 4/16/2026, 7:53:36 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260416-180801-a39i",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 17,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 56
+    }
+  },
+  {
+    "id": "20260414-124814-52i3",
+    "title": "Xander Cruz",
+    "commanders": [
+      "Xander Cruz"
+    ],
+    "dateStart": "2026-04-14T19:48:14.000Z",
+    "dateEnd": "2026-04-14T21:24:09.000Z",
+    "dateLabel": "4/14/2026, 12:48:14 PM - 4/14/2026, 2:24:09 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260414-124814-52i3",
+    "summary": {
+      "borderlandsPct": 0.5238095238095238,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 10,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 17
+    }
+  },
+  {
+    "id": "20260328-175435-vzyi",
+    "title": "Dub Grumble",
+    "commanders": [
+      "Dub Grumble"
+    ],
+    "dateStart": "2026-03-29T00:54:35.000Z",
+    "dateEnd": "2026-03-29T02:08:25.000Z",
+    "dateLabel": "3/28/2026, 5:54:35 PM - 3/28/2026, 7:08:25 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260328-175435-vzyi",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260325-170648-en5c",
+    "title": "Fíbbs",
+    "commanders": [
+      "Fíbbs"
+    ],
+    "dateStart": "2026-03-26T00:06:48.000Z",
+    "dateEnd": "2026-03-26T01:51:02.000Z",
+    "dateLabel": "3/25/2026, 5:06:48 PM - 3/25/2026, 6:51:02 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260325-170648-en5c",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 27,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 43,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260323-175718-nbw1",
+    "title": "Guardian Kamoidra",
+    "commanders": [
+      "Guardian Kamoidra"
+    ],
+    "dateStart": "2026-03-24T00:57:18.000Z",
+    "dateEnd": "2026-03-24T02:32:00.000Z",
+    "dateLabel": "3/23/2026, 5:57:18 PM - 3/23/2026, 7:32:00 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260323-175718-nbw1",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260322-085709-cs9c",
+    "title": "Lightbeam Jack",
+    "commanders": [
+      "Lightbeam Jack"
+    ],
+    "dateStart": "2026-03-22T15:57:09.000Z",
+    "dateEnd": "2026-03-22T21:22:41.000Z",
+    "dateLabel": "3/22/2026, 8:57:09 AM - 3/22/2026, 2:22:41 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260322-085709-cs9c",
+    "summary": {
+      "borderlandsPct": 0.17567567567567569,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 61,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260321-083400-mo28",
+    "title": "Xander Cruz",
+    "commanders": [
+      "Xander Cruz"
+    ],
+    "dateStart": "2026-03-21T15:34:00.000Z",
+    "dateEnd": "2026-03-21T17:14:34.000Z",
+    "dateLabel": "3/21/2026, 8:34:00 AM - 3/21/2026, 10:14:34 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260321-083400-mo28",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 9,
+      "avgEnemySize": 10
+    }
+  },
+  {
+    "id": "20260301-093318-n8mq",
+    "title": "Mira Grave",
+    "commanders": [
+      "Mira Grave"
+    ],
+    "dateStart": "2026-03-01T17:33:18.000Z",
+    "dateEnd": "2026-03-01T18:30:50.000Z",
+    "dateLabel": "3/1/2026, 9:33:18 AM - 3/1/2026, 10:30:50 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260301-093318-n8mq",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 9,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 6,
+      "avgEnemySize": 11
+    }
+  },
+  {
+    "id": "20260217-165847-e47u",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-18T00:58:47.000Z",
+    "dateEnd": "2026-02-18T02:28:03.000Z",
+    "dateLabel": "2/17/2026, 4:58:47 PM - 2/17/2026, 6:28:03 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260217-165847-e47u",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 26,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 38
+    }
+  },
+  {
+    "id": "20260201-080308-nl2f",
+    "title": "Victus Grave",
+    "commanders": [
+      "Victus Grave"
+    ],
+    "dateStart": "2026-02-01T16:03:08.000Z",
+    "dateEnd": "2026-02-01T18:22:32.000Z",
+    "dateLabel": "2/1/2026, 8:03:08 AM - 2/1/2026, 10:22:32 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260201-080308-nl2f",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Alpine Borderlands",
+          "value": 16,
+          "color": "#64748b"
+        },
+        {
+          "name": "Red Desert Borderlands",
+          "value": 8,
+          "color": "#64748b"
+        },
+        {
+          "name": "Green Alpine Borderlands",
+          "value": 3,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260201-080308-eysf",
+    "title": "Victus Grave",
+    "commanders": [
+      "Victus Grave"
+    ],
+    "dateStart": "2026-02-01T16:03:08.000Z",
+    "dateEnd": "2026-02-01T18:22:32.000Z",
+    "dateLabel": "2/1/2026, 8:03:08 AM - 2/1/2026, 10:22:32 AM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260201-080308-eysf",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 16,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 8,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260128-165728-nbtm",
+    "title": "Reven The Big Show, Tilted Aegis",
+    "commanders": [
+      "Reven The Big Show",
+      "Tilted Aegis"
+    ],
+    "dateStart": "2026-01-29T00:57:28.000Z",
+    "dateEnd": "2026-01-29T03:04:27.000Z",
+    "dateLabel": "1/28/2026, 4:57:28 PM - 1/28/2026, 7:04:27 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260128-165728-nbtm",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 23,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 43
+    }
+  },
+  {
+    "id": "20260128-165728-nutz",
+    "title": "Reven The Big Show, Tilted Aegis",
+    "commanders": [
+      "Reven The Big Show",
+      "Tilted Aegis"
+    ],
+    "dateStart": "2026-01-29T00:57:28.000Z",
+    "dateEnd": "2026-01-29T03:04:27.000Z",
+    "dateLabel": "1/28/2026, 4:57:28 PM - 1/28/2026, 7:04:27 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260128-165728-nutz",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 23,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 43
+    }
+  },
+  {
+    "id": "20260126-175738-10wd",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-01-27T01:57:38.000Z",
+    "dateEnd": "2026-01-27T03:30:45.000Z",
+    "dateLabel": "1/26/2026, 5:57:38 PM - 1/26/2026, 7:30:45 PM",
+    "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260126-175738-10wd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260126-175738-tl9t",
+    "title": "Not Haro",
+    "commanders": [
+      "Not Haro"
+    ],
+    "dateStart": "2026-01-27T01:57:38.000Z",
+    "dateEnd": "2026-01-27T03:30:45.000Z",
+    "dateLabel": "1/26/2026, 5:57:38 PM - 1/26/2026, 7:30:45 PM",
+    "url": "https://gw2dui.github.io/?report=20260126-175738-tl9t",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 48
+    }
+  }
+]
