@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20251222-191520-cw2z",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2025-12-23T03:15:20.000Z",
+      "dateEnd": "2025-12-23T03:55:36.000Z",
+      "dateLabel": "12/22/2025, 7:15:20 PM - 12/22/2025, 7:55:36 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20251222-191520-cw2z",
+      "summary": {
+        "borderlandsPct": 0.559322033898305,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260718-093338-bl0r",
       "title": "Mira Grave",
       "commanders": [
