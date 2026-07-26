@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-151630-fclb",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-07-26T22:16:30.000Z",
+      "dateEnd": "2026-07-26T23:33:12.000Z",
+      "dateLabel": "7/26/2026, 3:16:30 PM - 7/26/2026, 4:33:12 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260726-151630-fclb",
+      "summary": {
+        "borderlandsPct": 0.5454545454545454,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20251222-191520-i5ef",
       "title": "Not Haro",
       "commanders": [
