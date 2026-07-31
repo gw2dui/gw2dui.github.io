@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-180447-2dyu",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-07-31T01:04:47.000Z",
+      "dateEnd": "2026-07-31T02:23:41.000Z",
+      "dateLabel": "7/30/2026, 6:04:47 PM - 7/30/2026, 7:23:41 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260730-180447-2dyu",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260726-151630-fclb",
       "title": "Prez Ashton",
       "commanders": [
