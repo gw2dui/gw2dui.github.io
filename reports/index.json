@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-095656-s34d",
+      "title": "Crunchy Messorem",
+      "commanders": [
+        "Crunchy Messorem"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-16T16:56:56.000Z",
+      "dateEnd": "2026-08-16T17:32:07.000Z",
+      "dateLabel": "8/16/2026, 9:56:56 AM - 8/16/2026, 10:32:07 AM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20260816-095656-s34d",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260810-180239-w4a5",
       "title": "Prez Ashton",
       "commanders": [
