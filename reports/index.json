@@ -5,9 +5,48 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261011-182914-jrbm",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-10-12T01:29:14.000Z",
+      "dateEnd": "2026-10-12T02:15:50.609Z",
+      "dateLabel": "10/11/2026, 6:29:14 PM - 10/11/2026, 7:15:50 PM",
+      "url": "https://gw2dui.github.io/gw2dui.github.io/?report=20261011-182914-jrbm",
+      "publishedBy": "gw2dui",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20261008-174847-0xb8",
       "title": "Öptussy",
